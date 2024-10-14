@@ -1,0 +1,3 @@
+07:30 Empezamos a estudiar
+10:00 Practica final del curso de GIT
+10:30 Subo la practica final
